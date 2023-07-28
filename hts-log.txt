@@ -1,0 +1,43 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 28 Jul 2023 12:47:48 at https://estudioese.com.uy/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" https://estudioese.com.uy/ -O1 "C:\Mis lugares Web\PE\ese-pe" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:48:10	Error: 	"Not Found" (404) at link https://estudioese.com.uy/images/avatar.png (from https://estudioese.com.uy/)
+12:50:09	Error: 	"Bad Request" (400) at link https://d19b5f4jac5gbr.cloudfront.net/images/108/21/scan-4_q90.png (from https://estudioese.com.uy/que-hacemos-2)
+12:51:54	Error: 	"Not Found" (404) at link https://estudioese.com.uy/c (from https://connect.facebook.net/en_US/fbevents.js)
+12:51:54	Error: 	"Not Found" (404) at link https://estudioese.com.uy/b (from https://connect.facebook.net/en_US/fbevents.js)
+12:51:54	Error: 	"Not Found" (404) at link https://estudioese.com.uy/POST (from https://connect.facebook.net/en_US/fbevents.js)
+12:51:54	Error: 	"Not Found" (404) at link https://estudioese.com.uy/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+12:51:54	Error: 	"Not Found" (404) at link https://estudioese.com.uy/a (from https://connect.facebook.net/en_US/fbevents.js)
+12:51:54	Error: 	"Not Found" (404) at link https://estudioese.com.uy/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+12:51:55	Warning: 	Moved Permanently for estudioese.com.uy/robots.txt
+12:51:55	Warning: 	Redirected link is identical because of 'URL Hack' option: estudioese.com.uy/robots.txt and https://estudioese.com.uy/robots.txt
+12:51:55	Warning: 	Warning moved treated for estudioese.com.uy/robots.txt (real one is https://estudioese.com.uy/robots.txt)
+12:51:55	Warning: 	Moved Permanently for estudioese.com.uy/10-razones-por-las-que-el-bim-mejora-la-fase-de-facility-management/
+12:51:55	Warning: 	Redirected link is identical because of 'URL Hack' option: estudioese.com.uy/10-razones-por-las-que-el-bim-mejora-la-fase-de-facility-management/ and https://estudioese.com.uy/10-razones-por-las-que-el-bim-mejora-la-fase-de-facility-management/
+12:51:55	Warning: 	File has moved from estudioese.com.uy/10-razones-por-las-que-el-bim-mejora-la-fase-de-facility-management/ to https://estudioese.com.uy/10-razones-por-las-que-el-bim-mejora-la-fase-de-facility-management/
+12:51:55	Warning: 	Moved Permanently for https://estudioese.com.uy/que-es-un-cde-entorno-comun-de-datos/
+12:51:55	Warning: 	File has moved from https://estudioese.com.uy/que-es-un-cde-entorno-comun-de-datos/ to https://estudioese.com.uy/que-es-un-cde-entorno-comun-de-datos-7?nid=43
+12:51:55	Warning: 	Moved Permanently for https://estudioese.com.uy/que-es-bim-2/
+12:51:55	Warning: 	File has moved from https://estudioese.com.uy/que-es-bim-2/ to https://estudioese.com.uy/que-es-bim-7-definciones-7?nid=50
+12:51:55	Warning: 	Moved Permanently for https://estudioese.com.uy/metodologia-bim-ventaja-competitiva-u-obligacion/
+12:51:55	Warning: 	File has moved from https://estudioese.com.uy/metodologia-bim-ventaja-competitiva-u-obligacion/ to https://estudioese.com.uy/metodologia-bim-ventaja-competitiva-u-obligacion-7?nid=20
+12:51:55	Warning: 	Moved Permanently for https://estudioese.com.uy/8-pasos-para-crear-un-revit-template/
+12:51:55	Warning: 	File has moved from https://estudioese.com.uy/8-pasos-para-crear-un-revit-template/ to https://estudioese.com.uy/8-pasos-para-crear-un-revit-template-de-alto-rendimiento-7?nid=35
+12:51:55	Warning: 	Moved Permanently for https://estudioese.com.uy/situacion-bim-latinoamerica/
+12:51:55	Warning: 	File has moved from https://estudioese.com.uy/situacion-bim-latinoamerica/ to https://estudioese.com.uy/como-esta-la-situacion-bim-en-latinoamerica-7?nid=34
+12:51:56	Warning: 	Moved Permanently for https://estudioese.com.uy/implementar-bim-estudio-de-arquitectura/
+12:51:56	Warning: 	File has moved from https://estudioese.com.uy/implementar-bim-estudio-de-arquitectura/ to https://estudioese.com.uy/como-implementar-bim-en-un-estudio-de-arquitectura-7?nid=31
+12:51:56	Warning: 	Moved Permanently for https://estudioese.com.uy/tiempo-implementacion-bim/
+12:51:56	Warning: 	File has moved from https://estudioese.com.uy/tiempo-implementacion-bim/ to https://estudioese.com.uy/articulos-6
+12:51:56	Error: 	"Forbidden" (403) at link https://d19b5f4jac5gbr.cloudfront.net/images/295/7/2022-0416_que?-le-importa-a-un-bim-manager-sebastian-sanabria-web.png (from https://estudioese.com.uy/que-le-importa-a-un-bim-manager-7?nid=33)
+12:51:56	Warning: 	Moved Permanently for https://estudioese.com.uy/contacto/
+12:51:56	Warning: 	File has moved from https://estudioese.com.uy/contacto/ to https://estudioese.com.uy/contactanos-8
+12:51:56	Error: 	"Forbidden" (403) at link https://d19b5f4jac5gbr.cloudfront.net/images/297/7/gra?fico-desarrolladores.jpg (from https://estudioese.com.uy/por-que-los-desarrolladores-inmobiliarios-necesitan-implementar-bim-7?nid=26)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 8 seconds : 436 links scanned, 414 files written (58134503 bytes overall) [51425648 bytes received at 207361 bytes/sec], 9036915 bytes transferred using HTTP compression in 116 files, ratio 18%, 13.2 requests per connection
+(10 errors, 22 warnings, 0 messages)
